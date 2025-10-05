@@ -4,6 +4,10 @@ import requests
 from datetime import datetime
 
 # --- CONFIGURAZIONE ---
+if not os.getenv("GITHUB_ACTIONS"):
+    from dotenv import load_dotenv
+    load_dotenv()
+    
 CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID")
 CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET")
 REFRESH_TOKEN = os.getenv("SPOTIFY_REFRESH_TOKEN")
@@ -37,6 +41,7 @@ def get_saved_tracks(token):
                 tracks.append({
                     "id": track["id"],
                     "name": track["name"],
+                    "is_playable": track["is_playable"],
                     "artist": track["artists"][0]["name"]
                 })
         url = data.get("next")  # per prendere la pagina successiva
@@ -56,12 +61,14 @@ def main():
             old_tracks = json.load(f)
 
     # old_ids = {t["id"] for t in old_tracks}
-    new_ids = {t["id"] for t in new_tracks}
+    new_ids_playable_dict = {}
+    for t in new_tracks:
+        new_ids_playable_dict[t["id"]] = t["is_playable"]
 
-    removed = [t for t in old_tracks if t["id"] not in new_ids]
+    removed = [t for t in old_tracks if (t["id"] not in new_ids_playable_dict or new_ids_playable_dict[t["id"]] != t["is_playable"])]
 
     if removed:
-        msg = f"Brani rimossi dai tuoi Liked Songs ({datetime.now().strftime('%d/%m/%Y')}):\n"
+        msg = f"Brani rimossi dai Liked Songs o non più playable ({datetime.now().strftime('%d/%m/%Y')}):\n"
         msg += "\n".join([f"- {t['artist']} – {t['name']}" for t in removed])
         print(msg)
         send_telegram_message(msg)
