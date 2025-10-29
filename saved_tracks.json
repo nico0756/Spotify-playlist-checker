@@ -1,5 +1,29 @@
 [
   {
+    "id": "7MK21UAFrkb79imh8zR4W6",
+    "name": "Human",
+    "is_playable": true,
+    "artist": "Of Monsters and Men"
+  },
+  {
+    "id": "5NuZNC7s5Fe9EFHKpvVADb",
+    "name": "Sympathy Magic",
+    "is_playable": true,
+    "artist": "Florence + The Machine"
+  },
+  {
+    "id": "3xVmo0y8QSYOVLaifgZv8H",
+    "name": "Broken",
+    "is_playable": true,
+    "artist": "The Devil Wears Prada"
+  },
+  {
+    "id": "43fImwroNsNnVKRVz999XF",
+    "name": "Unravel",
+    "is_playable": true,
+    "artist": "Poppy"
+  },
+  {
     "id": "1TPdMmb92BoWvDFQlCuVl0",
     "name": "Dying To Love",
     "is_playable": true,
