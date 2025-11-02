@@ -1,5 +1,23 @@
 [
   {
+    "id": "1o0xAaXY4nEaPdBGiLZdNb",
+    "name": "Lost It - VIP",
+    "is_playable": true,
+    "artist": "Virtual Riot"
+  },
+  {
+    "id": "7qb4yZYhQHgzD6FMXzRJUb",
+    "name": "Waterfall",
+    "is_playable": true,
+    "artist": "Kotori"
+  },
+  {
+    "id": "5zTw33mXRP9d4RXzGwmgjY",
+    "name": "Pumpkin Song",
+    "is_playable": true,
+    "artist": "Spag Heddy"
+  },
+  {
     "id": "5IeePsTYSdFvadsHY0npqF",
     "name": "TANZNEID",
     "is_playable": true,
