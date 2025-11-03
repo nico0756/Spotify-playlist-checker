@@ -1,5 +1,23 @@
 [
   {
+    "id": "2yeIjXWp9wp2pPfywwiumU",
+    "name": "My Effigy",
+    "is_playable": true,
+    "artist": "Annisokay"
+  },
+  {
+    "id": "0q2Q3YPiI8zbfLoLJ4pf8A",
+    "name": "Monsters In My Head",
+    "is_playable": true,
+    "artist": "Solence"
+  },
+  {
+    "id": "7gTByo68vfzUhneliqbJpO",
+    "name": "Angels Calling",
+    "is_playable": true,
+    "artist": "Solence"
+  },
+  {
     "id": "1o0xAaXY4nEaPdBGiLZdNb",
     "name": "Lost It - VIP",
     "is_playable": true,
