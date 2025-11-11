@@ -1,5 +1,11 @@
 [
   {
+    "id": "15lV6FJ46eb756jcKTGp7p",
+    "name": "Love Generation",
+    "is_playable": true,
+    "artist": "Bob Sinclar"
+  },
+  {
     "id": "1b8FO7tAHgmxTXzedBspbm",
     "name": "Night",
     "is_playable": true,
@@ -6262,12 +6268,6 @@
     "name": "I Can Only Hope",
     "is_playable": true,
     "artist": "Mayday Parade"
-  },
-  {
-    "id": "7BoCHRAewXZfPcbw8D4Qgf",
-    "name": "I See You - Theme from Avatar",
-    "is_playable": true,
-    "artist": "Leona Lewis"
   },
   {
     "id": "4M4q467Jw5eatkFbeWzk4H",
