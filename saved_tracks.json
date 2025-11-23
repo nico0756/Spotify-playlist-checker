@@ -1,5 +1,29 @@
 [
   {
+    "id": "67aNGns9ZH1jm6nruyzBGU",
+    "name": "Lullaby",
+    "is_playable": true,
+    "artist": "BENNETT"
+  },
+  {
+    "id": "5fIZ683j2xPeLAXfHeWKEG",
+    "name": "Derni\u00e8re danse - Techno Mix",
+    "is_playable": true,
+    "artist": "Indila"
+  },
+  {
+    "id": "3qpsSAfHgTdTwkaraJLe0V",
+    "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
+    "is_playable": true,
+    "artist": "BENNETT"
+  },
+  {
+    "id": "31nfdEooLEq7dn3UMcIeB5",
+    "name": "Vois sur ton chemin - Techno Mix",
+    "is_playable": true,
+    "artist": "BENNETT"
+  },
+  {
     "id": "4GX75nLztolASqvAOOtP5i",
     "name": "Enchant\u00e9",
     "is_playable": true,
