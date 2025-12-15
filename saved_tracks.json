@@ -1,5 +1,47 @@
 [
   {
+    "id": "5TnVZsHM8l1LkfgL7YaTyk",
+    "name": "Thrice Woven",
+    "is_playable": true,
+    "artist": "Seven Lions"
+  },
+  {
+    "id": "7gHChz5x4UxzPioKLODTXq",
+    "name": "subconscious",
+    "is_playable": true,
+    "artist": "Just A Gent"
+  },
+  {
+    "id": "3EVROibC8utd9tGNrJvoNo",
+    "name": "When I'm Alone",
+    "is_playable": true,
+    "artist": "HVDES"
+  },
+  {
+    "id": "1Fm9LmUNwGuoVOQTp4sl5T",
+    "name": "Design",
+    "is_playable": true,
+    "artist": "Unlike Pluto"
+  },
+  {
+    "id": "23eZSuMOfsr4tTWcC6DGcG",
+    "name": "I Wanna Go",
+    "is_playable": true,
+    "artist": "Ely Oaks"
+  },
+  {
+    "id": "1LA9fZHoMMDfffcVQyyqiJ",
+    "name": "Whenever, Wherever",
+    "is_playable": true,
+    "artist": "BIMONTE"
+  },
+  {
+    "id": "0LY97UKhqyhAn5xkEyfqjT",
+    "name": "The Moonless Night",
+    "is_playable": true,
+    "artist": "The Wise Man's Fear"
+  },
+  {
     "id": "1uUAahHEmqgrGLvFzRUifd",
     "name": "The Moon Will Sing - Lullaby Version",
     "is_playable": true,
