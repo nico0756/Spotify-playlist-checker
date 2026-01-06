@@ -1,5 +1,23 @@
 [
   {
+    "id": "6Tj5fSn0o7fFYkNHy6NdoY",
+    "name": "WHAT IM HERE FOR",
+    "is_playable": true,
+    "artist": "Jordan Suaste"
+  },
+  {
+    "id": "0iiF2xbsGT0zj5ktIt4w7s",
+    "name": "vulnerable",
+    "is_playable": true,
+    "artist": "CHANGETHEWXRLD"
+  },
+  {
+    "id": "3tt3xqzg1RR1hM4HmB8OE4",
+    "name": "Weaponised Love",
+    "is_playable": true,
+    "artist": "Gunship"
+  },
+  {
     "id": "782YlCwsXdlu2myUme4zyu",
     "name": "Under Electric Skies (Uprize & Serion Remix)",
     "is_playable": true,
@@ -14534,7 +14552,7 @@
   {
     "id": "3UB2piIRjGOKGsmesEpztg",
     "name": "Lover - Rogue Remix",
-    "is_playable": false,
+    "is_playable": true,
     "artist": "Sons & Lovers"
   },
   {
