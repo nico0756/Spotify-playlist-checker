@@ -1,5 +1,11 @@
 [
   {
+    "id": "0v2E55aUdjXgAwqg7GOipF",
+    "name": "The End of Us (feat. Black Veil Brides)",
+    "is_playable": true,
+    "artist": "TX2"
+  },
+  {
     "id": "2MvOHARGSXHlmYEcj74M2B",
     "name": "Falling from the Sky",
     "is_playable": true,
@@ -1180,12 +1186,6 @@
     "name": "Don't Go",
     "is_playable": true,
     "artist": "Wildways"
-  },
-  {
-    "id": "0ZrCU8P4eplAShElqj9TSS",
-    "name": "Pittsburgh",
-    "is_playable": true,
-    "artist": "The Amity Affliction"
   },
   {
     "id": "2lQuzKVFno8c5F2rRrKjmT",
