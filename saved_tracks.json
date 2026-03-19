@@ -1,5 +1,11 @@
 [
   {
+    "id": "0HEabShW8AztTengL04u3v",
+    "name": "Lost",
+    "is_playable": true,
+    "artist": "Slow Magic"
+  },
+  {
     "id": "0XlQyikvErn2c3dd6B0kTF",
     "name": "Reconnect - Everen Maxwell Remix",
     "is_playable": true,
@@ -140,7 +146,7 @@
   {
     "id": "5Er4OfsmWfqXwWRMFQs6mJ",
     "name": "The Signal - Glitch Hop Remix",
-    "is_playable": false,
+    "is_playable": true,
     "artist": "Veilr"
   },
   {
