@@ -1,5 +1,17 @@
 [
   {
+    "id": "6Z2hokFLCbEXKnnBosDj8u",
+    "name": "The Old Religion",
+    "is_playable": true,
+    "artist": "Florence + The Machine"
+  },
+  {
+    "id": "06fqBUtCFsSomwcG1Mvgzr",
+    "name": "Jump",
+    "is_playable": true,
+    "artist": "MIND"
+  },
+  {
     "id": "7yl47GDImy8krUgOfxw9Ql",
     "name": "This Song Was Stolen By Pirates",
     "is_playable": true,
@@ -5756,7 +5768,7 @@
   {
     "id": "1US5TY1Rl3zn0o25nONwsk",
     "name": "Surreal",
-    "is_playable": false,
+    "is_playable": true,
     "artist": "Mielo"
   },
   {
