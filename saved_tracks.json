@@ -1,5 +1,29 @@
 [
   {
+    "id": "0IdCqIA09vR0qXHJPTibdU",
+    "name": "Emerald Necklace",
+    "is_playable": true,
+    "artist": "Seven Spires"
+  },
+  {
+    "id": "73t3anes2I2sbjubaSI1Li",
+    "name": "The Unforgotten Name",
+    "is_playable": true,
+    "artist": "Seven Spires"
+  },
+  {
+    "id": "2yh1zhM5BbGNrNpSDI9hn6",
+    "name": "Succumb",
+    "is_playable": true,
+    "artist": "Seven Spires"
+  },
+  {
+    "id": "3Fh97zubL1xSY0pAev4z6c",
+    "name": "Love's Souvenir",
+    "is_playable": true,
+    "artist": "Seven Spires"
+  },
+  {
     "id": "7JW8FRWVCOQDs40IjEXdPi",
     "name": "WannaCry",
     "is_playable": true,
