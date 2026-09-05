@@ -1,5 +1,11 @@
 [
   {
+    "id": "1tgllSOkansimVqIfA6nvn",
+    "name": "Second Thoughts",
+    "is_playable": true,
+    "artist": "Tails"
+  },
+  {
     "id": "7aiCvh8TrtGpZahaZDqsdG",
     "name": "can't feel one another",
     "is_playable": true,
@@ -6579,13 +6585,13 @@
     "id": "1U85jCmEwSIlJdrMpNsDCU",
     "name": "The Other",
     "is_playable": true,
-    "artist": "LAUV"
+    "artist": "Lauv"
   },
   {
     "id": "63PiZyWQgrKKQxKdouicyw",
     "name": "Reforget",
     "is_playable": true,
-    "artist": "LAUV"
+    "artist": "Lauv"
   },
   {
     "id": "4M9lfUgDeLHu1fL2ZxZSlu",
